@@ -1,6 +1,7 @@
 import "./App.css";
-import Video from "../src/Videos/output.webm";
-import bg from "../src/images/section_bg.png";
+import Video from "../src/Videos/output.mp4";
+// import Video from "../src/Videos/output.webm";
+// import bg from "../src/images/section_bg.png";
 import img1 from "../src/images/DSC01558-Edit.jpg";
 // import img2 from "../src/images/veda1.png";
 import img3 from "../src/images/DSC01933.jpg";
