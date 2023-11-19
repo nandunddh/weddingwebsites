@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/weddingwebsites/static/css/main.9b05a715.css",
-    "main.js": "/weddingwebsites/static/js/main.0631587e.js",
+    "main.js": "/weddingwebsites/static/js/main.44bf54be.js",
     "static/js/787.417d3e10.chunk.js": "/weddingwebsites/static/js/787.417d3e10.chunk.js",
+    "static/media/output.mp4": "/weddingwebsites/static/media/output.54d1cc38e9f103f39cb0.mp4",
     "static/media/DSC01941-Edit.jpg": "/weddingwebsites/static/media/DSC01941-Edit.2d0e5450f13e2a710fee.jpg",
     "static/media/DSC01933.jpg": "/weddingwebsites/static/media/DSC01933.cec9b91bde10d23d6d06.jpg",
     "static/media/DSC01952-Edit.jpg": "/weddingwebsites/static/media/DSC01952-Edit.46179b3a4c55bbf29da0.jpg",
     "static/media/DSC01558-Edit.jpg": "/weddingwebsites/static/media/DSC01558-Edit.c67b29c728927ba87804.jpg",
-    "static/media/output.webm": "/weddingwebsites/static/media/output.27404d5c0dfa2ae5e820.webm",
     "static/media/DSC01994-Edit.jpg": "/weddingwebsites/static/media/DSC01994-Edit.be4c0143fb9f01f0f0fc.jpg",
     "static/media/counter.jpg": "/weddingwebsites/static/media/counter.407dc5a5cbb34266a052.jpg",
     "static/media/section_bg.png": "/weddingwebsites/static/media/section_bg.42414be2561f1f098ec4.png",
     "index.html": "/weddingwebsites/index.html",
     "main.9b05a715.css.map": "/weddingwebsites/static/css/main.9b05a715.css.map",
-    "main.0631587e.js.map": "/weddingwebsites/static/js/main.0631587e.js.map",
+    "main.44bf54be.js.map": "/weddingwebsites/static/js/main.44bf54be.js.map",
     "787.417d3e10.chunk.js.map": "/weddingwebsites/static/js/787.417d3e10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b05a715.css",
-    "static/js/main.0631587e.js"
+    "static/js/main.44bf54be.js"
   ]
 }
