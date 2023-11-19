@@ -1,0 +1,65 @@
+.about {
+  background-image: url("./images/section_bg.png");
+  text-align: center;
+  color: #8b6d46;
+}
+.about p {
+  font-family: "Courier New", Courier, monospace;
+}
+.about h3 {
+  font-size: xx-large;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+}
+.about h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-variant: small-caps;
+  font-style: italic;
+}
+
+.invited {
+  background-image: url("./images/section_bg.png");
+  text-align: center;
+}
+.invited p {
+  /* text-decoration: underline; */
+  font-family: "Courier New", Courier, monospace;
+}
+.invited h2 {
+  color: #8b6d46;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+  font-size: large;
+  display: grid;
+  align-items: center;
+}
+.invited .section1 {
+  display: flex;
+}
+
+.invited .col-sm-6 {
+  display: grid;
+}
+
+.invited .section1 img {
+  /* display: flex !important; */
+  border-radius: 25%;
+}
+.invited .section2 {
+  display: flex !important;
+}
+.invited .section2 img {
+  /* display: flex !important; */
+  border-radius: 25%;
+}
+.venu {
+  background: linear-gradient(194deg, #cd9b46, #996d46);
+  color: #fff;
+}
+
+.counter {
+  background-image: url("./images/counter.jpg");
+  height: 100px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
